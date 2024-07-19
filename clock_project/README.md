@@ -63,7 +63,7 @@ Distributed under the MIT License. See 'LICENSE' for more information.
 ## Contact
 My LinkedIn Project Link:(https://www.linkedin.com/in/ready-to-join-your-company/)
 
-##deploy in firebase
+#deploy in firebase
 firebase login
 Run firebase init.
 Choose "Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys".
