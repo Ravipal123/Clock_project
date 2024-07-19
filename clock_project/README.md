@@ -64,13 +64,13 @@ Distributed under the MIT License. See 'LICENSE' for more information.
 My LinkedIn Project Link:(https://www.linkedin.com/in/ready-to-join-your-company/)
 
 ## deploy in firebase
--firebase login
--Run firebase init.
+-```firebase login```
+-Run ```firebase init```.
 -Choose "Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys".
 -Select the Firebase project you want to deploy to.
 -Choose the "dist" directory (the default output directory for Vite) as the public directory.
 -Select "No" for single-page app configuration if prompted (Vite is often used with single-page apps, but this can be configured later if needed).
 -Choose "No" for GitHub Actions setup unless you want to automate deployments via GitHub Actions.
--Run npm run build
--firebase deploy
+-Run ```npm run build```
+-```firebase deploy```
 
