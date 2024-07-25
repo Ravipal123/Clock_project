@@ -1,6 +1,6 @@
 # AnalogClock Project
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status]([https://travis-ci.org/joemccann/dillinger.svg?branch=master])(https://travis-ci.org/joemccann/dillinger)
 
 An awesome project which help to understand the topics like Router, Hooks, APIs etc,
 
